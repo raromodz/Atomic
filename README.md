@@ -12,3 +12,7 @@ ___
 
 ___
 [![SLK NAO COMPENSA](https://dummyimage.com/800x400/000/fff&text=Acessar+Painel)](https://Google.com)
+
+___
+<h4>SUPPORT 📦</h4>
+(https://dummyimage.com/400x200/000/0000ff&text=Acessar+Painel)](https://Google.com)
