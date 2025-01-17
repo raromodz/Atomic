@@ -16,4 +16,4 @@ ___
 ___
 <h4>SUPPORT 📦</h4>
 
-[![FAZ O L](https://dummyimage.com/400x200/000/0000ff&text=Acessar+Painel)](https://Google.com)
+[![FAZ O L](https://dummyimage.com/200x100/000/0000ff&text=Acessar+Painel)](https://Google.com)
