@@ -16,7 +16,7 @@ ___
 ___
 <h4>SUPPORT 📦</h4>
 
-[![FAZ O L](https://dummyimage.com/200x100/000/0000ff&text=DISCORD)](https://discord.gg/xNAXbgFVdk)
+[![FAZ O L](https://dummyimage.com/100x50/000/0000ff&text=DISCORD)](https://discord.gg/xNAXbgFVdk)
 
 [![AI SS](https://dummyimage.com/200x100/000/0000ff&text=Raro+Modz)](https://wa.me/5511915356602?text=VIM%20PELO%20PAINEL)
 
