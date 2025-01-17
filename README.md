@@ -17,3 +17,5 @@ ___
 <h4>SUPPORT 📦</h4>
 
 [![FAZ O L](https://dummyimage.com/200x100/000/0000ff&text=Acessar+Painel)](https://Google.com)
+
+[![AI SS](https://dummyimage.com/200x100/000/0000ff&text=Raro+Modz)](https://wa.me/5511915356602?text=VIM%20PELO%20PAINEL)
